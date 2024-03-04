@@ -1,0 +1,14 @@
+C:\Users\csi23-salflet\source\repos\SAlfLetExamen3Evaluación\bin\Debug\net6.0\SAlfLetExamen3Evaluación.exe
+C:\Users\csi23-salflet\source\repos\SAlfLetExamen3Evaluación\bin\Debug\net6.0\SAlfLetExamen3Evaluación.deps.json
+C:\Users\csi23-salflet\source\repos\SAlfLetExamen3Evaluación\bin\Debug\net6.0\SAlfLetExamen3Evaluación.runtimeconfig.json
+C:\Users\csi23-salflet\source\repos\SAlfLetExamen3Evaluación\bin\Debug\net6.0\SAlfLetExamen3Evaluación.dll
+C:\Users\csi23-salflet\source\repos\SAlfLetExamen3Evaluación\bin\Debug\net6.0\SAlfLetExamen3Evaluación.pdb
+C:\Users\csi23-salflet\source\repos\SAlfLetExamen3Evaluación\obj\Debug\net6.0\SAlfLetExamen3Evaluación.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-salflet\source\repos\SAlfLetExamen3Evaluación\obj\Debug\net6.0\SAlfLetExamen3Evaluación.AssemblyInfoInputs.cache
+C:\Users\csi23-salflet\source\repos\SAlfLetExamen3Evaluación\obj\Debug\net6.0\SAlfLetExamen3Evaluación.AssemblyInfo.cs
+C:\Users\csi23-salflet\source\repos\SAlfLetExamen3Evaluación\obj\Debug\net6.0\SAlfLetExamen3Evaluación.csproj.CoreCompileInputs.cache
+C:\Users\csi23-salflet\source\repos\SAlfLetExamen3Evaluación\obj\Debug\net6.0\SAlfLetExamen3Evaluación.dll
+C:\Users\csi23-salflet\source\repos\SAlfLetExamen3Evaluación\obj\Debug\net6.0\refint\SAlfLetExamen3Evaluación.dll
+C:\Users\csi23-salflet\source\repos\SAlfLetExamen3Evaluación\obj\Debug\net6.0\SAlfLetExamen3Evaluación.pdb
+C:\Users\csi23-salflet\source\repos\SAlfLetExamen3Evaluación\obj\Debug\net6.0\SAlfLetExamen3Evaluación.genruntimeconfig.cache
+C:\Users\csi23-salflet\source\repos\SAlfLetExamen3Evaluación\obj\Debug\net6.0\ref\SAlfLetExamen3Evaluación.dll

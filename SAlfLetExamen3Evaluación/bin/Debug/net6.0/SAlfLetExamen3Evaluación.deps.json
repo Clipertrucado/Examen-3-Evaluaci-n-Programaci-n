@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SAlfLetExamen3Evaluación/1.0.0": {
+        "runtime": {
+          "SAlfLetExamen3Evaluación.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SAlfLetExamen3Evaluación/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
